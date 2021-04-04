@@ -9,7 +9,7 @@ Hidden Markov models have been able to achieve >96% tag accuracy with larger tag
 There are 2 notebooks
 
 `HMM warmup.ipynb`:
-This contains an introduction to 
+This contains an introduction to HMM using the [Pomegranate](http://pomegranate.readthedocs.io/en/latest/index.html) library to build a simple Hidden Markov Model and explore the Pomegranate API.
 
 
-`HMM Tagger.ipynb`:
+`HMM Tagger.ipynb`: In this notebook, you'll use the [Pomegranate](http://pomegranate.readthedocs.io/) library to build a hidden Markov model for part of speech tagging using a "universal" tagset.
